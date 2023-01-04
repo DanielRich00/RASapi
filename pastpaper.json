@@ -1,9 +1,9 @@
 {
   "maths": {
-    "dates": ["2022-12-21", "2022-12-22", "2022-12-23"],
-    "websites": ["www.maths1.com", "www.maths2.com", "www.maths3.com"]
+    "dates": ["2018", "2018", "2020"],
+    "websites": ["https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FMaths%2FA-level%2FPapers%2FOCR-MEI%2FAS-Paper-1%2FQP%2FJune%25202018%2520QP.pdf", "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FMaths%2FA-level%2FPapers%2FOCR-MEI%2FAS-Paper-1%2FQP%2FJune%25202019%2520QP.pdf", "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fwww.physicsandmathstutor.com%2Fdownload%2FMaths%2FA-level%2FPapers%2FAQA%2FAS-Paper-2%2FQP%2FJune%25202018%2520QP.pdf"]
   },
-  "science": {
+  "chemistry": {
     "dates": ["2022-12-21", "2022-12-22", "2022-12-23"],
     "websites": ["www.science1.com", "www.science2.com", "www.science3.com"]
   }
